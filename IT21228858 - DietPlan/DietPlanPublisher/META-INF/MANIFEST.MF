@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DietPlanPublisher
+Bundle-SymbolicName: DietPlanPublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: dietPlanPublisher_pkg.DietPlanActivator
+Export-Package: dietPlanPublisher_pkg
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: DietPlanPublisher
+Import-Package: dietPlanPublisher_pkg,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ExerciseSubscriber_Admin001
+Bundle-SymbolicName: ExerciseSubscriber_Admin001
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: exerciseSubscriber_pkg.ExerciseSubscriber_Admin_Activator
+Export-Package: exerciseSubscriber_pkg
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: ExerciseSubscriber_Admin001
+Import-Package: exercise_publisher_pkg,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Require-Bundle: org.eclipse.osgi
