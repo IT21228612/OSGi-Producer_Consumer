@@ -1,7 +1,5 @@
 # OSGi-Producer_Consumer
-## Gym System
-## developed for an assignment 
-<br>
+## Gym System - developed for an assignment 
 <br>
 
 ### Assignment 01 : Micro-kernel Architecture
